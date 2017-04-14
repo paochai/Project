@@ -1,0 +1,57 @@
+﻿  C8Quiz.c
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\c8quiz.c(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\c8quiz.c(61): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\c8quiz.c(134): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\c8quiz.c(169): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  13_Random.c
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\13_random.c(122): warning C4098: 'main3': 'void' 함수에서 값을 반환하고 있습니다.
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\13_random.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\13_random.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  12_NStop.c
+  11_RandomNumber.c
+  10_Break.c
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\10_break.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  09_EnglishSchool.c
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\09_englishschool.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  07_ExceptMul2Mul3.c
+  06_WhenOver5000.c
+  05_ThreeOperand.c
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\05_threeoperand.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  04_CalTwo.c
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\04_caltwo.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\04_caltwo.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  03_IfElseBasic.c
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\03_ifelsebasic.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\03_ifelsebasic.c(12): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\03_ifelsebasic.c(12): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\03_ifelsebasic.c(17): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\03_ifelsebasic.c(17): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  02_da.c
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\02_da.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\02_da.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  01_IfBasic.c
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\01_ifbasic.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\03_ifelsebasic.c(19): warning C4716: 'main3': 값을 반환해야 합니다.
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter08\c8quiz.c(139): warning C4715: 'main1_5': 모든 제어 경로에서 값을 반환하지는 않습니다.
+11_RandomNumber.obj : error LNK2005: _main1이(가) 01_IfBasic.obj에 이미 정의되어 있습니다.
+12_NStop.obj : error LNK2005: _main2이(가) 02_da.obj에 이미 정의되어 있습니다.
+13_Random.obj : error LNK2005: _main3이(가) 03_IfElseBasic.obj에 이미 정의되어 있습니다.
+C8Quiz.obj : error LNK2005: _main1_1이(가) 11_RandomNumber.obj에 이미 정의되어 있습니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main 외부 기호(참조 위치: "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수)에서 확인하지 못했습니다.
+C:\Users\KYM2-04\Documents\Visual Studio 2017\Projects\Basic\Debug\Chapter08.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

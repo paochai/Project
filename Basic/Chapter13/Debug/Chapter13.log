@@ -1,0 +1,4 @@
+﻿  C13Quiz.c
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter13\c13quiz.c(30): warning C4700: 초기화되지 않은 'ptr' 지역 변수를 사용했습니다.
+  Chapter13.vcxproj -> C:\Users\KYM2-04\Documents\Visual Studio 2017\Projects\Basic\Debug\Chapter13.exe
+  Chapter13.vcxproj -> C:\Users\KYM2-04\Documents\Visual Studio 2017\Projects\Basic\Debug\Chapter13.pdb (Partial PDB)

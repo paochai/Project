@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(04-SimpleSeperate4.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  header2.h
+c:\users\kym2-04\documents\visual studio 2017\projects\fileseperate\04-simpleseperate4\header2.h(1): error C2059: 구문 오류: 'return'
+c:\users\kym2-04\documents\visual studio 2017\projects\fileseperate\04-simpleseperate4\header2.h(2): error C2059: 구문 오류: '}'
+c:\users\kym2-04\documents\visual studio 2017\projects\fileseperate\04-simpleseperate4\header2.h(2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  header1.h
+c:\users\kym2-04\documents\visual studio 2017\projects\fileseperate\04-simpleseperate4\header1.h(1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\kym2-04\documents\visual studio 2017\projects\fileseperate\04-simpleseperate4\header1.h(3): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+  코드를 생성하고 있습니다...

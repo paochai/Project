@@ -1,0 +1,2 @@
+﻿  Ref3ReturnThree.cpp
+c:\users\kym2-04\documents\visual studio 2017\projects\cppbasic\exam13\ref3returnthree.cpp(17): error C2440: '초기화 중': 'int'에서 'int &'(으)로 변환할 수 없습니다.

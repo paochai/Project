@@ -1,0 +1,108 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(Exam14.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  3 by 3 puzzle.cpp
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  NewDelete.cpp
+  puzzle.c
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cstdlib(11): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cstdlib(11): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cstdlib(12): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cstdlib(14): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cstdlib(21): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cstdlib(21): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cstdlib(22): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cstdlib(24): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(9): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(9): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(10): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(15): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(22): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(22): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(23): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(25): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(32): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(32): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(33): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(35): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(42): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(42): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(43): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(45): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(52): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(52): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(53): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(55): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(63): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(63): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(64): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(66): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(73): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(73): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(74): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(76): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(83): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(83): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(84): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(86): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(93): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(93): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(94): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(96): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(103): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(103): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(104): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(106): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(113): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(113): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(114): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(116): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(124): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(124): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(125): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(127): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(134): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(134): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(135): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(137): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(144): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(144): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(145): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(147): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(154): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(154): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(155): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(157): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(164): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(164): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(165): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(167): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(174): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(174): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(175): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(177): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(184): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(184): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(185): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(187): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(194): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(194): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(195): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(197): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(204): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(204): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(205): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(207): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(214): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(214): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(215): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(217): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(225): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(225): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(226): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(228): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(236): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(236): error C2059: 구문 오류: ';'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(237): error C2449: 파일 범위에 '{'가 있습니다. 함수 헤더가 없는 것 같습니다.
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(242): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(250): error C2061: 구문 오류: 식별자 'noexcept'
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\cmath(250): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.

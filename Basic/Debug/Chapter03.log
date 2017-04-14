@@ -1,0 +1,25 @@
+﻿  퀴즈.c
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter03\퀴즈.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter03\퀴즈.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter03\퀴즈.c(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  13_SimpleAddFour.c
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter03\13_simpleaddfour.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  12_SimpleAddThree.c
+  11_CommaOp.c
+  10_OperatorSeven.c
+  09_OperatorSix.c
+  08_OperatorFive.c
+  07_OperatorFour.c
+  06_OperatorThree.c
+  05_OperatorTwo.c
+  04_OperatorOne.c
+  03_SimpleAddTwo.c
+  02_VarDeclAndinit.c
+  01_SimpleAddOne.c
+  코드를 생성하고 있습니다...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main 외부 기호(참조 위치: "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수)에서 확인하지 못했습니다.
+C:\Users\KYM2-04\Documents\Visual Studio 2017\Projects\Basic\Debug\Chapter03.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

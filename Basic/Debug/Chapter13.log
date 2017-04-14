@@ -1,0 +1,12 @@
+﻿  C13Quiz.c
+  06_TwoStringType.c
+  05_PointerBaseArrayAccess.c
+  04_ArrayName.c
+  03_ArrayNameIsPointer.c
+  02_ArrayNamePointerOp.c
+  01_ArrayNameType.c
+  코드를 생성하고 있습니다...
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter13\03_arraynameispointer.c(12): warning C4716: 'main3': 값을 반환해야 합니다.
+c:\users\kym2-04\documents\visual studio 2017\projects\basic\chapter13\c13quiz.c(30): warning C4700: 초기화되지 않은 'ptr' 지역 변수를 사용했습니다.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: _main 외부 기호(참조 위치: "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수)에서 확인하지 못했습니다.
+C:\Users\KYM2-04\Documents\Visual Studio 2017\Projects\Basic\Debug\Chapter13.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
